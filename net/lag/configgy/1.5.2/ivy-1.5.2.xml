@@ -1,0 +1,25 @@
+<ivy-module version="1.0" xmlns:e="http://ant.apache.org/ivy/extra">
+  <info organisation="net.lag" module="configgy" revision="1.5.2" status="integration" publication="20100807100906" e:testclass="net.lag.TestRunner" e:buildpackage="net.lag.configgy">
+    <license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
+  </info>
+
+  <configurations>
+    
+    <conf name="default" description="normal build"/>
+    
+  </configurations>
+
+  <publications>
+    <artifact/>
+    <artifact type="pom"/>
+  </publications>
+
+  <dependencies>
+    <!-- i guess scala-compiler.jar is needed for MainGenericRunner -->
+    <dependency org="org.scala-lang" name="scala-compiler" rev="2.8.0.RC1"/>
+    <dependency org="org.scala-lang" name="scala-library" rev="2.8.0.RC1"/>
+    
+    
+    
+  </dependencies>
+</ivy-module>
