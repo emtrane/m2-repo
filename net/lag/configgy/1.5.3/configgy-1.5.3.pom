@@ -11,7 +11,7 @@
   <groupId>net.lag</groupId>
   <artifactId>configgy</artifactId>
   <packaging>jar</packaging>
-  <version>1.5.2</version>
+  <version>1.5.3</version>
   <dependencies>
     <dependency>
       <groupId>org.scala-lang</groupId>

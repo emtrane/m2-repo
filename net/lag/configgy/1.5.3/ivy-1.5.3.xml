@@ -1,5 +1,5 @@
 <ivy-module version="1.0" xmlns:e="http://ant.apache.org/ivy/extra">
-  <info organisation="net.lag" module="configgy" revision="1.5.2" status="integration" publication="20100807100906" e:testclass="net.lag.TestRunner" e:buildpackage="net.lag.configgy">
+  <info organisation="net.lag" module="configgy" revision="1.5.3" status="integration" publication="20100807100906" e:testclass="net.lag.TestRunner" e:buildpackage="net.lag.configgy">
     <license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
   </info>
 
